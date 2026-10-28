@@ -1,0 +1,22 @@
+{
+  "name": "app-firebase-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-config": "~55.0.9",
+    "expo": "~55.0.32",
+    "expo-status-bar": "~55.0.6",
+    "firebase": "^13.1.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "react-native": "0.83.10",
+    "react-native-web": "^0.21.0"
+  },
+  "private": true
+}
